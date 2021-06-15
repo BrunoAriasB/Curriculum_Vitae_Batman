@@ -1,0 +1,9 @@
+.fondo-imagen-curriculum{background-color: #E5E5E5}
+h1, h2{background-color: #C4C4C4; color:#005677; font-family: 'Times New Roman', Times, serif; font-weight: bold; font-feature-settings: "cpsp"on;}
+h1{font-size: 35px} 
+h2{font-size: 20px}
+.Negritas-dp{font-style: italic; font-weight: 700; line-height: 16px}
+.Negritas-p{font-weight: 700; line-height: 16px}
+body{font-family:'Times New Roman', Times, serif ; font-weight: normal; font-size: 15px; font-weight: 400}
+.footer-batman{background-color: #005677;}
+.span-footer{color:#FFFFFF; font-family: 'Times New Roman', Times, serif; font-size: 20px;font-weight: 700; text-align:center; text-transform: uppercase; background-color:#005677}
