@@ -4,6 +4,7 @@ h1{font-size: 35px}
 h2{font-size: 20px}
 .Negritas-dp{font-style: italic; font-weight: 700; line-height: 16px}
 .Negritas-p{font-weight: 700; line-height: 16px}
-body{font-family:'Times New Roman', Times, serif ; font-weight: normal; font-size: 15px; font-weight: 400}
+body{font-family:'Times New Roman', Times, serif ; font-weight: normal; font-size: 15px; font-weight: 400;
+max-width: 1041px; margin: 50px}
 .footer-batman{background-color: #005677;}
 .span-footer{color:#FFFFFF; font-family: 'Times New Roman', Times, serif; font-size: 20px;font-weight: 700; text-align:center; text-transform: uppercase; background-color:#005677}
